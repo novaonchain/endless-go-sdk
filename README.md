@@ -50,4 +50,4 @@ You can read more about the Go SDK documentation on [docs.endless.link](https://
 - [x] Safe transaction
 
 
-
+# Endless Protocol provides tools and SDKs that make Web3 development easier and more accessible.
